@@ -22,7 +22,7 @@
 - ls
   - lists files and directories in the current layer
 - ls -a
- - lists all files and directories in the current layer, including those that are hidden
+  - lists all files and directories in the current layer, including those that are hidden
 - mv [File Name]
   - moves a file, though it is easier to delete it then recreate it in the intended destination
 - mvdir
