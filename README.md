@@ -27,6 +27,8 @@
   - moves a file, though it is easier to delete it then recreate it in the intended destination
 - mvdir
   - moves a foler, though it is easier to delete it then recreate it in the intended destination
+- clear
+  - clears the screen of clutter "gives a clean slate"
  
 ## git Commands
 - git clone [URL]
